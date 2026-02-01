@@ -22,18 +22,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LashaTsikaridze&show_icons=true&title_color=007acc&icon_color=007acc&text_color=333&bg_color=ffffff&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LashaTsikaridze&layout=compact&langs_count=6&title_color=007acc&text_color=333&bg_color=ffffff&hide_border=false" />
-</p>
-
----
-
 ### 📫 დამიკავშირდით:
 
 * **Email:** tsikaridzelashaa@gmail.com
 * * **LinkedIn:** www.linkedin.com/in/tsikaridze-lasha
-* **LinkedIn:** [ბმული შენს პროფილზე (სურვილისამებრ)]
 
 ---
